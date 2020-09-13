@@ -22,7 +22,7 @@
 - Notes:
 Extremely relevant; it talks about secure pipelines, SAST/DAST, DefectDojo, etc. 
 - Introduces many tools for security testing and automation. Even if you don't use the same technology stack, it's still useful to know and interesting to read about (e.g. I did not know that JMeter could be used for security testing! I have only ever used it for load and QA testing)
-Personal Rating: 10/10 (must read!) because it is interesting to see how automation testing can be applied to security as well
+- Personal Rating: 10/10 (must read!) because it is interesting to see how automation testing can be applied to security as well
 
 ## Advanced Software Testing Vol. 3 (by Jamie L. Mitchell, Rex Black)
 - Status: DONE (Oct-Dec 2018)
