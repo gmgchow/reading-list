@@ -40,6 +40,23 @@
 	- Very long but contains some slightly out-of-date information (Silverlight, Flash, etc. which aren't really used anymore) so some parts can be skipped
 	- Personal Rating: 10/10 (must read!) because it does a really good job explaining everything as though the reader is a complete beginner. I liked how it explains the vulnerabilities, how to detect them when testing, and how to prevent them.
 
+## The Tangled Web (by Michal Zalewski)
+- Status: DONE (July-Sept 2020)
+- https://learning.oreilly.com/library/view/the-tangled-web/9781593273880/
+- Notes:
+	- Talks about vulnerabilities in web applications and browsers, and also goes into detail about the history of web browsers, web development, etc.
+	- Similar to 'The Web Application Hacker's Handbook' above, but is a little more wordy and includes more details around history
+	- The 'Engineer Cheatsheet' at the end of each section is useful and acts as a nice summary
+	- Personal Rating: 7/10 (good to read) because personally, I would recommend 'The Web Application Hacker's Handbook' over this time. They cover similar topics but that one is easier to read due to being more concise
+
+## Mastering Kali Linux for Advanced Penetration Testing - Third Edition (by Vijay Kumar Velu, Robert Beggs)
+- Status: DONE (Oct-Dec 2020)
+- https://learning.oreilly.com/library/view/mastering-kali-linux/9781789340563/
+- Notes:
+	- The topics in the book progresses in the same order of penetration testing (information gathering > exploitation > post-exploitation), making it easy to organize your thoughts 
+	- It covers a wide variety of tools that can be used, including Metasploit, Social Engineering Toolkit, Netcat, Wireshark, etc.
+	- Personal Rating: 7/10 (good to read) because it introduces so many tools that each one is only covered briefly. Perhaps it will be more useful to read this book while doing hands-on labs (i.e. Hack the Box) at the same time to gain a deeper understanding
+
 ## Hacking the Hacker (by Roger A. Grimes)
 - Status: DONE (Oct-Dec 2019)
 - https://learning.oreilly.com/library/view/hacking-the-hacker/9781119396215/
