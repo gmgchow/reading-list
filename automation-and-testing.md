@@ -17,7 +17,7 @@
 	- Personal Rating: 10/10 (must read!) because reading about how other companies succeeded or failed in automation can help us not make the same mistakes!
 
 ## Practical Security Automation and Testing (by Tony Hsiang-Chih Hsu)
-- Status: DONE
+- Status: DONE (Jan-Mar 2020)
 - https://learning.oreilly.com/library/view/practical-security-automation/9781789802023/
 - Notes:
 Extremely relevant; it talks about secure pipelines, SAST/DAST, DefectDojo, etc. 
