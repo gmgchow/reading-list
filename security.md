@@ -1,5 +1,13 @@
 # Security
 
+## Secure Coding: Principles and Practices (by Mark G. Graff, Kenneth R. van Wyk)
+- Status: Done (Oct-Dec 2020)
+- https://learning.oreilly.com/library/view/secure-coding-principles/0596002424/
+- Notes:
+	- Lists and describes the 30 principles of security architecture, something that all engineers definitely need to know in order to build secure software
+	- Examines how security fits into each stage of the SDLC
+	- Personal Rating: 10/10 (must read!) because every engineer and security engineer needs to know these principles, and this book explains everything in a way that's easy to understand
+
 ## Agile Application Security (by Laura Bell, Jim Bird, Rich Smith, Michael Brunton-Spall)
 - Status: DONE (Jan-Mar 2020)
 - https://learning.oreilly.com/library/view/agile-application-security/9781491938836/
