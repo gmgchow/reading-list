@@ -8,6 +8,14 @@
 	- Examines how security fits into each stage of the SDLC
 	- Personal Rating: 10/10 (must read!) because every engineer and security engineer needs to know these principles, and this book explains everything in a way that's easy to understand
 
+## Microservices Security in Action (by Wajjakkara Kankanamge Anthony Nuwan Dias, Prabath Siriwardena)
+- Status: Done (Oct-Dec 2020)
+- https://learning.oreilly.com/library/view/microservices-security-in/9781617295959/
+- Notes:
+	- Covers standard micoservice security practices (JWT, mTLS, managing certificates, etc.) in detail
+	- Rather than only focusing on security, this book also walks through how to make a microservice using Springboot framework so it can be helpful to microservice developers as well as security engineers and SRE
+	- Personal Rating: 9/10 (extremely helpful!) because topics are covered to a great level of detail and I think this book would be especially helpful to developers who are just starting out in building microservices since it also includes best practices and code samples. Personally I found those parts a bit distracting since I am not using that particular framework and programming language but I enjoyed the security-related parts of the book
+
 ## Agile Application Security (by Laura Bell, Jim Bird, Rich Smith, Michael Brunton-Spall)
 - Status: DONE (Jan-Mar 2020)
 - https://learning.oreilly.com/library/view/agile-application-security/9781491938836/
