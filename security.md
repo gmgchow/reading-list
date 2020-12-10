@@ -1,5 +1,13 @@
 # Security
 
+## Threat Modeling(by Izar Tarandach, Matthew J. Coles)
+- Status: Done (Oct-Dec 2020)
+- https://learning.oreilly.com/library/view/threat-modeling/9781492056546/
+- Notes:
+	- Explains threat modeling at a high level, from creating models to analysis
+	- Explains the different approaches that are commonly used (STRIDE, PASTA, etc.)
+	- Personal Rating: 8/10 (very good!) because it explains the whole process from beginning to end, for beginners of threat modeling. However, I wish it had more examples or even exercises to work through to help deepen understanding.
+
 ## Secure Coding: Principles and Practices (by Mark G. Graff, Kenneth R. van Wyk)
 - Status: Done (Oct-Dec 2020)
 - https://learning.oreilly.com/library/view/secure-coding-principles/0596002424/
