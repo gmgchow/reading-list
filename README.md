@@ -1,3 +1,7 @@
+Thank you @gmgchow!!!
+
+---
+
 # Reading List
 
 This repository is for tracking books that I have read or want to read. Generally I read about: cybersecurity, automation, productivity, devops, process/efficiency, and specific technologies that I am interested in or using at work.
