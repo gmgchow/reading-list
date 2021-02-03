@@ -1,5 +1,12 @@
 # Security
 
+## Web Security for Developers (by Malcolm McDonald)
+- Status: Done (Feb 2021)
+- https://learning.oreilly.com/library/view/web-security-for/9781098122683/
+- Notes:
+	- It covers the major security issues to be careful of when developing web applications
+	- Personal Rating: 7/10 (good to read) because this book can be used like a checklist and is easy to understand so it will certainly be useful to web developers. I personally found the content to be a bit too shallow for security engineers but it is a good book to recommend to web developers that you are working with to help increase security awareness.
+
 ## Threat Modeling(by Izar Tarandach, Matthew J. Coles)
 - Status: Done (Oct-Dec 2020)
 - https://learning.oreilly.com/library/view/threat-modeling/9781492056546/
