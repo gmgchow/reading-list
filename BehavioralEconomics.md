@@ -1,9 +1,12 @@
 # Behavioral economics
 
-## TITLE
-- Status: DONE (July-Sept 2020)
-- URL
+## 自己矛盾劇場: 「知ってる・見えてる・正しいつもり」を考察する
+- Status: WIP (Feb 2021 -)
+- https://amzn.to/37tXhIP
 - Notes:
-	- Hoge
-	- Hoge
+	1. 自己矛盾には3つの特徴がある
+		1. 自ら気づくことは極めて難しい（が、他の人については気づきやすい）
+		2. 気づいてしまうと、他人の気づいていない状態が滑稽でたまらない
+		3. 他人から指摘されると「強烈な自己弁護」が始まる
+
 
