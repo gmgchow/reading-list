@@ -12,7 +12,7 @@
 - Status: Done (Feb 2020)
 - https://learning.oreilly.com/library/view/practical-security-automation/9781789802023/
 - Notes:
-	- Extremely relevant; it talks about secure pipelines, SAST/DAST, DefectDojo, etc. 
+	- Extremely relevant; it talks about secure pipelines, SAST/DAST, DefectDojo, etc.
 	- Introduces many tools for security testing and automation. Even if you don't use the same technology stack, it's still useful to know and interesting to read about (e.g. I did not know that JMeter could be used for security testing! I have only ever used it for load and QA testing)
 	- Personal Rating: **10/10 (must read!)** because it is interesting to see how automation testing can be applied to security as well
 
@@ -85,7 +85,7 @@
 - Status: Done (Dec 2020)
 - https://learning.oreilly.com/library/view/mastering-kali-linux/9781789340563/
 - Notes:
-	- The topics in the book progresses in the same order of penetration testing (information gathering > exploitation > post-exploitation), making it easy to organize your thoughts 
+	- The topics in the book progresses in the same order of penetration testing (information gathering > exploitation > post-exploitation), making it easy to organize your thoughts
 	- It covers a wide variety of tools that can be used, including Metasploit, Social Engineering Toolkit, Netcat, Wireshark, etc.
 	- Personal Rating: **7/10 (good to read)** because it introduces so many tools that each one is only covered briefly. Perhaps it will be more useful to read this book while doing hands-on labs (i.e. Hack the Box) at the same time to gain a deeper understanding
 
@@ -105,6 +105,13 @@
 	- Introduces common security problems (e.g. crytography, insecure OS, the rising of IoT hacks, etc.) and includes interviews from specialists working in these areas
 	- Doesn't go much into technical details because it focuses on the motivations and psychology behind hacking
 	- Personal Rating: **7/10 (good to read)** because it was interesting learning about the backgrounds of some famous security specialists and the psychology of hacking
+
+## Cybersecurity Attacks - Red Team Strategies (by Johann Rehberger, 2020)
+- Status: Done (Aug 2022)
+- https://learning.oreilly.com/library/view/cybersecurity-attacks/9781838828868/
+- Notes:
+	- The first few chapters covers best practices and processes for building and operating a Red Team, and then it moves onto introducing tools for specific types of penetration testing (Active Directory, setting up a Honey Pot, etc.)
+	- Personal Rating: **6/10 (can skip)** because it was way too specific in introducing tooling (e.g. assuming the use of AD, assuming the OS of targets is Windows, etc.). I was hoping for a more general, less vendor-specific guide for how to build a Red Team and operate day-to-day but this book wasn't it.
 
 ## Penetration Testing (by Georgia Weidman, 2014)
 - Status: Done (Oct 2019)
