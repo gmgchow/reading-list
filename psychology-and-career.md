@@ -1,17 +1,17 @@
-# Psychology
+# Psychology and Career
 
 ## The Social Animal
 - Status: Done (June 2021)
 - https://www.amazon.com/Social-Animal-Elliot-Aronson-ebook/dp/B07CSJ3W4Q
-- Notes: 
+- Notes:
 	- It's a university-level psychology textbook so it's very long, but definitely worth reading!
 	- It teaches principles of social psychology that you can use in persuading people, avoiding conflict, and making overall communication smoother
 	- Personal Rating: **10/10 (must read!)** because personally, I believe that everyone should know at least some social psychology. It can be used in daily life as well as work, regardless of the industry because human connection matters more than you think.
 
 ## How to Win Friends and Influence People (by Dale Carnegie, 1998)
 - Status: Done (Sept 2021)
-- https://www.amazon.com/How-Win-Friends-Influence-People/dp/0671027034 
-- Notes: 
+- https://www.amazon.com/How-Win-Friends-Influence-People/dp/0671027034
+- Notes:
 	- It provides tips on how to be a likeable person, leave a good impression, and influence others to help you
 	- Personal Rating: **8/10 (very good!)** because even though some of the points seem like common sense (e.g. to be a great conversationist, talk about topics that the person likes, listen more than you speak, etc.), many people don't actually have this sense. By following these tips, I do think that people will like you more as a person, therefore making it more likely that they will listen to and come to your aid.
 
@@ -21,6 +21,14 @@
 - Notes:
 	- It provides lots of tips on how to become fluent in languages you're studying (the author himself is fluent in 5 languages and is conversational level in several more)
 	- Personal Rating: **8/10 (very good!)** because it preaches that the most important part of learning a language is daring to use it. I also believe that you have to continuously practice a language in order to become fluent so I found the anecdotal stories to be inspiriational.
+
+## The Manager's Path (by Camille Fournier, 2017)
+- Status: Done (August 2022)
+- https://learning.oreilly.com/library/view/the-managers-path/9781491973882/
+- Notes:
+	- This was an interesting read because it includes descriptions of different leadership roles (Senior IC, Tech Lead, Engineering Manager, Director, Senior Director, C-level executive) and advice for each.
+	- It also has overall tips on how to grow and plan your career, how to communicate effectively with your manager/sub-ordinates/people in different levels of the hierarchy from you, how to have effective 1on1s, etc. I think this kind of advice is useful even to people who do not plan on moving into management roles.
+	- Personal Rating: **7/10 (good to read)** because the advice is useful no matter what role you work in, and it also taught me traits of good leaders. This advice will not only be useful if I myself move into management in the future, but it'll also help me distinguish good leaders from not-so-good ones (:
 
 ## Influence (by Robert Cialdini, 2009)
 - Status: Done (April 2021)
