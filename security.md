@@ -41,7 +41,13 @@
 	- Covers STRIDE framework in detail (in addition to other frameworks) and lists things to pay attention to when threat modeling
 	- Personal Rating: **10/10 (must read!)** because it teaches what to look out for and how to think when doing security design reviews. I would highly recommend it for beginners in security because thinking like a hacker can be difficult if you don't know what to look out for and are just starting out, but this book gives a good base.
 
-
+## Tribe of Hackers Red Team: Tribal Knowledge from the Best in Offensive Cybersecurity (by Marcus J. Carey, Jennifer Jin, 2019)
+- Status: Done (Sept 2022)
+- https://www.amazon.com/Tribe-Hackers-Red-Team-Cybersecurity/dp/1119643325
+- Notes:
+	- This book is a compilation of 47 veteran Red Teamers' tips on working in the industry. Each person answers the same set of interview questions ("What are some tips on writing a good report?", "What nontechnical skills do you look for?", etc.)
+	- I personally found it a bit long because across the 47 interviews, many of the same ideas were repeated over and over again so I think 47 chapters is a bit much.
+	- Personal Rating: **9/10 (extremely helpful!)** because it provides interesting insight on the industry from veterans. This book will be especially helpful to people like me who don't have a lot of experience in the industry.
 
 ## Microservices Security in Action (by Wajjakkara Kankanamge Anthony Nuwan Dias, Prabath Siriwardena, 2020)
 - Status: Done (Oct 2020)

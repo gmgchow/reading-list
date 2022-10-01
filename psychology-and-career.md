@@ -1,5 +1,26 @@
 # Psychology and Career
 
+## Can't Hurt Me: Master Your Mind and Defy The Odds (by David Goggins, 2018)
+- Status: Done (Oct 2022)
+- https://www.amazon.com/Cant-Hurt-Me-Master-Your/dp/1544512279
+- Notes:
+	- The author is definitely the "hardest man who ever lived"! He has been through a lot and reading about his story and how he defied all odds to become successful, made me realize how blessed I am. It made me want to try harder in life because if he can accomplish so much in his unfortunate circumstances, what can I do?
+	- Personal Rating: **10/10 (must read!)** because this is hands-down, the most inspirational book I've ever read. There are many quote-worthy lines in this book and it's made me really reflect on my life and what I want to do from now on.
+
+## Emotional Intelligence: Why It Can Matter More Than IQ (by Daniel Goleman, 2005)
+- Status: Done (Sept 2022)
+- https://www.amazon.com/Emotional-Intelligence-Matter-More-Than/dp/055338371X
+- Notes:
+	- I was surprised at the wide range of topics this book covers: the biology and development of emotions and EQ, how to communicate diplomatically and avoid fights at school, work, and even in marriage, healing from trauma, bullying, depression, raising children to have high EQ, and more!
+	- Personal Rating: **10/10 (must read!)** because every person should learn how to manage their emotions. It will make all aspects of your life go more smoothly, and the world would be a better place if everyone had high EQ.
+
+## The Subtle Art of Not Giving a F*ck (by Mark Manson, 2016)
+- Status: Done (Sept 2022)
+- https://www.amazon.com/-/en/Mark-Manson/dp/0062457713
+- Notes:
+	- I found the writing style of this book to be too casual but the content is good. Basically it teaches a mindset of not caring for things that you cannot change so that you can live a more positive life.
+	- Personal Rating: **9/10 (extremely helpful!)** because it's a common problem to care too much and overthink things in life. This book teaches you a healthier mindset so that you can become more resilient when life throws lemons at you.
+
 ## The Social Animal
 - Status: Done (June 2021)
 - https://www.amazon.com/Social-Animal-Elliot-Aronson-ebook/dp/B07CSJ3W4Q

@@ -2,6 +2,8 @@
 
 This repository is for tracking books that I have read or want to read. Generally I read about: cybersecurity, automation, productivity, devops, process/efficiency, and specific technologies that I am interested in or using at work.
 
+**Current Count of Completed Books: 38**
+
 ## Disclaimers
 
 1. The book ratings are based on my own personal opinion so it is possible that you may not agree with them.
